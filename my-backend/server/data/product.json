@@ -1,0 +1,78 @@
+[
+    {
+        "id": 1,
+        "name": "test",
+        "detail": "test",
+        "price": 0,
+        "hero": "OMG This just came out today!",
+        "image": "test"
+    },
+    {
+        "id": 2,
+        "name": "Product 1",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": 999,
+        "info": "This is the latest and greatest product from Derp corp.",
+        "image": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "id": 3,
+        "name": "Product 2",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": 129,
+        "offer": "BOGOF",
+        "image": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "id": 4,
+        "name": "Product 3",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": 92,
+        "image": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "id": 5,
+        "name": "Product 4",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": 20,
+        "offer": "No srsly GTFO",
+        "image": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "id": 6,
+        "name": "Product 5",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": 1199,
+        "image": "http://placehold.it/300x300/999/CCC"
+    },
+    {
+        "name": "Product 6",
+        "detail": "Lorem ipsum dolor sit amet",
+        "price": 856,
+        "info": "This is the latest and greatest product from Derp corp.",
+        "offer": "info with offer",
+        "image": "http://placehold.it/300x300/999/CCC",
+        "id": 7
+    },
+    {
+        "name": "tis2",
+        "detail": "Lorem ipsum dolo sadasw",
+        "price": 1220,
+        "image": "http://placehold.it/300x300/999/CCC",
+        "id": 8
+    },
+    {
+        "name": "tis2",
+        "detail": "Lorem ipsum dolo sadasw",
+        "price": 1220,
+        "image": "http://placehold.it/300x300/999/CCC",
+        "id": 9
+    },
+    {
+        "name": "tis2",
+        "detail": "Lorem ipsum dolo sadasw",
+        "price": 1220,
+        "image": "http://placehold.it/300x300/999/CCC",
+        "id": 10
+    }
+]
