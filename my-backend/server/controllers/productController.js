@@ -46,7 +46,7 @@ export const removeProduct = (req,res)=>{
             return e
         })
         fs.writeFileSync(`${__dirname}/data/product.json`,JSON.stringify(newProducts))
-        return res.status(201).json(products)
+        return res.status(200).json(products)
     } catch (err) {
         return res.status(500).json({masseg:"something wrong"})
     }

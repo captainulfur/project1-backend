@@ -4,6 +4,7 @@ import { fileURLToPath } from "url"
 import cors from "cors"
 
 import productRoutes from "./routes/productRoutes.js"
+import userRuter from "./routes/UserRoutes.js"
 import morgan from "morgan"
 
 const app = express()
@@ -16,6 +17,7 @@ app.use(express.json())
 app.use(morgan("dev"))
 
 app.use("/products",productRoutes)
+app.use("/user",userRuter)
 
 
 app.use("*",(req,res)=>{

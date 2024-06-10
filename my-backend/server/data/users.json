@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "admin",
+    "email": "admin@natours.io",
+    "role": "admin",
+    "active": true,
+    "photo": "user-1.jpg",
+    "password": "123456",
+    "jwt":"91208910938098d9fsafsdfhjk3209d32d234afdsblp"
+  }
+]
