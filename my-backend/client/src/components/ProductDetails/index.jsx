@@ -25,7 +25,7 @@ export default function index() {
       <Grid container xs={6}>
         <Avatar
           alt={e.name}
-          src={import.meta.env.VITE_BASE_URL + e.image}
+          src={e.image}
           sx={{ width: "100%", height: "90vh", borderRadius: 0 }}
         />
       </Grid>

@@ -18,7 +18,7 @@ export default function index({name,image,price,id}) {
             <CardMedia
               component="img"
               height="140"
-              image={import.meta.env.VITE_BASE_URL+image}
+              image={image}
               alt={name}
               sx={{p:2,borderRadius:3}}
             />
